@@ -61,11 +61,13 @@ $ python3 detect_mask_video.py
 
 ### Usage Example
 
-<img src="https://github.com/micaelillos/Mask-Detection/blob/master/images/test.jpeg"/>
+<p align=center>
 
-<img src="https://github.com/micaelillos/Mask-Detection/blob/master/images/Output_screenshot2_21.09.2020.pngg"/>
+<img src="https://github.com/micaelillos/Mask-Detection/blob/master/images/test.jpeg" width=600/>
 
+<img src="https://github.com/micaelillos/Mask-Detection/blob/master/images/Output_screenshot2_21.09.2020.png" width=600/>
 
+</p>
 
 
 * **For help or questions** - *Get in touch* - <a href="https://micaelil.com"> Website </a>
