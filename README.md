@@ -1,7 +1,7 @@
 # Mask Detection
 
 <p align=center>
-    <img src="https://i.imgur.com/zmyt4Eu.png" width=500>
+    <img src="https://i.imgur.com/DQRwFcs.png" width=600>
   <br>
    <br>
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg">
