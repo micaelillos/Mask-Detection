@@ -63,9 +63,18 @@ $ python3 detect_mask_video.py
 
 <p align=center>
 
+### Input
 <img src="https://github.com/micaelillos/Mask-Detection/blob/master/images/test.jpeg" width=600/>
 
+### Output
 <img src="https://github.com/micaelillos/Mask-Detection/blob/master/images/Output_screenshot2_21.09.2020.png" width=600/>
+
+### Input
+<img src="https://github.com/micaelillos/Mask-Detection/blob/master/images/test1.jpg" width=600/>
+
+### Output
+<img src="https://github.com/micaelillos/Mask-Detection/blob/master/images/Output_screenshot_21.09.2020.png" width=600/>
+
 
 </p>
 
